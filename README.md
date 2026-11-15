@@ -15,3 +15,12 @@ flutter test
 
 The download service is a deterministic local simulation. Do not add HTTP, file-system,
 storage, or platform-plugin integration. No particular state-management package is required.
+
+## Expected behavior demo
+
+[Watch or download the candidate demo video](docs/download-manager-candidate-demo.mp4)
+(2 minutes 23 seconds; silent, with on-screen explanations).
+
+The demo covers queue order, concurrency, progress, pause/resume, cancellation,
+failure/retry, late updates, and cleanup. It uses the reference app with scripted local
+events and shows expected behavior without solution code.
