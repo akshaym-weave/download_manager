@@ -1,0 +1,14 @@
+name: senior_download_manager_interview
+description: Offline senior Flutter download manager interview fixture.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
